@@ -1,0 +1,92 @@
+2022-05-13 13:32:55.928  INFO 32224 --- [main] c.S.SpringLog4jApplicationTests          : Starting SpringLog4jApplicationTests using Java 17.0.1 on Shubham-Da with PID 32224 (started by dandare_s in C:\Users\dandare_s\Desktop\SpringBoot Workspace\Spring-log4j)
+2022-05-13 13:32:55.931  INFO 32224 --- [main] c.S.SpringLog4jApplicationTests          : No active profile set, falling back to 1 default profile: "default"
+2022-05-13 13:32:55.979 DEBUG 32224 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@3301500b
+2022-05-13 13:32:57.306 DEBUG 32224 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2022-05-13 13:32:57.405 DEBUG 32224 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2022-05-13 13:32:57.489 DEBUG 32224 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2022-05-13 13:32:57.510 DEBUG 32224 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2022-05-13 13:32:57.662  INFO 32224 --- [main] c.S.SpringLog4jApplicationTests          : Started SpringLog4jApplicationTests in 2.132 seconds (JVM running for 3.331)
+2022-05-13 13:32:57.667  INFO 32224 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j INFO Application Started.....!!!!
+2022-05-13 13:32:57.668 ERROR 32224 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j ERROR Application Started.....!!!!
+2022-05-13 13:32:57.669 ERROR 32224 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j FATAL Application Started.....!!!!
+2022-05-13 13:32:58.364 DEBUG 32224 --- [SpringApplicationShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@3301500b, started on Fri May 13 13:32:55 IST 2022
+2022-05-13 13:34:09.025  INFO 17724 --- [main] c.S.SpringLog4jApplicationTests          : Starting SpringLog4jApplicationTests using Java 17.0.1 on Shubham-Da with PID 17724 (started by dandare_s in C:\Users\dandare_s\Desktop\SpringBoot Workspace\Spring-log4j)
+2022-05-13 13:34:09.026  INFO 17724 --- [main] c.S.SpringLog4jApplicationTests          : No active profile set, falling back to 1 default profile: "default"
+2022-05-13 13:34:09.060 DEBUG 17724 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@3a45c42a
+2022-05-13 13:34:10.405 DEBUG 17724 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2022-05-13 13:34:10.502 DEBUG 17724 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2022-05-13 13:34:10.592 DEBUG 17724 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2022-05-13 13:34:10.605 DEBUG 17724 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2022-05-13 13:34:10.777  INFO 17724 --- [main] c.S.SpringLog4jApplicationTests          : Started SpringLog4jApplicationTests in 2.171 seconds (JVM running for 3.332)
+2022-05-13 13:34:10.782  INFO 17724 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j INFO Application Started.....!!!!
+2022-05-13 13:34:10.783 ERROR 17724 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j ERROR Application Started.....!!!!
+2022-05-13 13:34:10.783 ERROR 17724 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j FATAL Application Started.....!!!!
+2022-05-13 13:34:11.323 DEBUG 17724 --- [SpringApplicationShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@3a45c42a, started on Fri May 13 13:34:09 IST 2022
+2022-05-13 13:34:37.235  INFO 15548 --- [main] com.Springlog4j.SpringLog4jApplication   : Starting SpringLog4jApplication using Java 17.0.1 on Shubham-Da with PID 15548 (C:\Users\dandare_s\Desktop\SpringBoot Workspace\Spring-log4j\target\classes started by dandare_s in C:\Users\dandare_s\Desktop\SpringBoot Workspace\Spring-log4j)
+2022-05-13 13:34:37.239  INFO 15548 --- [main] com.Springlog4j.SpringLog4jApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-05-13 13:34:37.970  INFO 15548 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 1212 (http)
+2022-05-13 13:34:37.979  INFO 15548 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-13 13:34:37.980  INFO 15548 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-13 13:34:38.089  INFO 15548 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-13 13:34:38.090  INFO 15548 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 808 ms
+2022-05-13 13:34:38.228 DEBUG 15548 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2022-05-13 13:34:38.287 DEBUG 15548 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2022-05-13 13:34:38.306 DEBUG 15548 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2022-05-13 13:34:38.313 DEBUG 15548 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2022-05-13 13:34:38.388  INFO 15548 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 1212 (http) with context path ''
+2022-05-13 13:34:38.396  INFO 15548 --- [main] com.Springlog4j.SpringLog4jApplication   : Started SpringLog4jApplication in 1.543 seconds (JVM running for 2.437)
+2022-05-13 13:34:38.398  INFO 15548 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j INFO Application Started.....!!!!
+2022-05-13 13:34:38.399 ERROR 15548 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j ERROR Application Started.....!!!!
+2022-05-13 13:34:38.400 ERROR 15548 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j FATAL Application Started.....!!!!
+2022-05-13 13:37:03.041  INFO 15548 --- [RMI TCP Connection(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-05-13 13:37:51.473  INFO 29132 --- [main] com.Springlog4j.SpringLog4jApplication   : Starting SpringLog4jApplication using Java 17.0.1 on Shubham-Da with PID 29132 (C:\Users\dandare_s\Desktop\SpringBoot Workspace\Spring-log4j\target\classes started by dandare_s in C:\Users\dandare_s\Desktop\SpringBoot Workspace\Spring-log4j)
+2022-05-13 13:37:51.476  INFO 29132 --- [main] com.Springlog4j.SpringLog4jApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-05-13 13:37:52.205  INFO 29132 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 1212 (http)
+2022-05-13 13:37:52.213  INFO 29132 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-13 13:37:52.214  INFO 29132 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-13 13:37:52.321  INFO 29132 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-13 13:37:52.321  INFO 29132 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 803 ms
+2022-05-13 13:37:52.466 DEBUG 29132 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2022-05-13 13:37:52.526 DEBUG 29132 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2022-05-13 13:37:52.546 DEBUG 29132 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2022-05-13 13:37:52.552 DEBUG 29132 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2022-05-13 13:37:52.630  INFO 29132 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 1212 (http) with context path ''
+2022-05-13 13:37:52.638  INFO 29132 --- [main] com.Springlog4j.SpringLog4jApplication   : Started SpringLog4jApplication in 1.534 seconds (JVM running for 2.36)
+2022-05-13 13:37:52.641  INFO 29132 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j INFO Application Started.....!!!!
+2022-05-13 13:37:52.641 ERROR 29132 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j ERROR Application Started.....!!!!
+2022-05-13 13:37:52.641 ERROR 29132 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j FATAL Application Started.....!!!!
+2022-05-13 14:25:57.236  INFO 29132 --- [RMI TCP Connection(36)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-05-13 14:26:17.944  INFO 32892 --- [main] com.Springlog4j.SpringLog4jApplication   : Starting SpringLog4jApplication using Java 17.0.1 on Shubham-Da with PID 32892 (C:\Users\dandare_s\Desktop\SpringBoot Workspace\Spring-log4j\target\classes started by dandare_s in C:\Users\dandare_s\Desktop\SpringBoot Workspace\Spring-log4j)
+2022-05-13 14:26:17.947  INFO 32892 --- [main] com.Springlog4j.SpringLog4jApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-05-13 14:26:19.436  INFO 32892 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 1212 (http)
+2022-05-13 14:26:19.480  INFO 32892 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-13 14:26:19.481  INFO 32892 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-13 14:26:19.695  INFO 32892 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-13 14:26:19.695  INFO 32892 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1707 ms
+2022-05-13 14:26:19.846 DEBUG 32892 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2022-05-13 14:26:19.906 DEBUG 32892 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2022-05-13 14:26:19.926 DEBUG 32892 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2022-05-13 14:26:19.933 DEBUG 32892 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2022-05-13 14:26:20.079  INFO 32892 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 1212 (http) with context path ''
+2022-05-13 14:26:20.095  INFO 32892 --- [main] com.Springlog4j.SpringLog4jApplication   : Started SpringLog4jApplication in 2.533 seconds (JVM running for 4.508)
+2022-05-13 14:26:20.099  INFO 32892 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j INFO Application Started.....!!!!
+2022-05-13 14:26:20.099 ERROR 32892 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j ERROR Application Started.....!!!!
+2022-05-13 14:26:20.099 ERROR 32892 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j FATAL Application Started.....!!!!
+2022-05-13 14:28:41.533  INFO 32892 --- [RMI TCP Connection(6)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-05-13 14:29:55.677  INFO 15824 --- [main] com.Springlog4j.SpringLog4jApplication   : Starting SpringLog4jApplication using Java 17.0.1 on Shubham-Da with PID 15824 (C:\Users\dandare_s\Desktop\SpringBoot Workspace\Spring-log4j\target\classes started by dandare_s in C:\Users\dandare_s\Desktop\SpringBoot Workspace\Spring-log4j)
+2022-05-13 14:29:55.680  INFO 15824 --- [main] com.Springlog4j.SpringLog4jApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-05-13 14:29:56.418  INFO 15824 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 1212 (http)
+2022-05-13 14:29:56.428  INFO 15824 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-13 14:29:56.429  INFO 15824 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-13 14:29:56.539  INFO 15824 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-13 14:29:56.540  INFO 15824 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 817 ms
+2022-05-13 14:29:56.692 DEBUG 15824 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2022-05-13 14:29:56.752 DEBUG 15824 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2022-05-13 14:29:56.772 DEBUG 15824 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2022-05-13 14:29:56.778 DEBUG 15824 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2022-05-13 14:29:56.856  INFO 15824 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 1212 (http) with context path ''
+2022-05-13 14:29:56.866  INFO 15824 --- [main] com.Springlog4j.SpringLog4jApplication   : Started SpringLog4jApplication in 1.571 seconds (JVM running for 2.425)
+2022-05-13 14:29:56.867  INFO 15824 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j INFO Application Started.....!!!!
+2022-05-13 14:29:56.869 ERROR 15824 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j ERROR Application Started.....!!!!
+2022-05-13 14:29:56.869 ERROR 15824 --- [main] com.Springlog4j.SpringLog4jApplication   : Log4j FATAL Application Started.....!!!!
+2022-05-13 14:55:44.534  INFO 15824 --- [RMI TCP Connection(31)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
